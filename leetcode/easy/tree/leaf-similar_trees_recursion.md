@@ -1,5 +1,7 @@
 Daily Question 1/9/2024
 
+# [🏠 Back to Home](https://dev-tae.github.io)
+
 # [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09)
 
 # Intuition
@@ -66,6 +68,4 @@ class Solution:
         res2 = dfs(root2, [])
         
         return res1 == res2 
-            
-            
 ```

@@ -6,7 +6,6 @@ Welcome to my code progression note, where I document the milestones of my ongoi
 - [Study Notes](#study-notes)
 - [Programming Notes](#programming-notes)
 - [Algorithm Explorations](#algorithm-explorations)
-
 - [Categories](#categories)
 
 ## Leetcode Progress
