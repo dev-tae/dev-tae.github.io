@@ -1,9 +1,14 @@
 Daily Question 1/9/2024
 
-# [🏠 Back to Home](https://dev-tae.github.io)
+## [🏠 Back to Home](https://dev-tae.github.io)
 
-# [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09)
+## [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/?envType=daily-question&envId=2024-01-09) (Link to Leetcode)
 
+## Table of Contents
+- [Intuition](#Intuition)
+- [Approach](#Approach)
+- [Complexity](#Complexity) 
+- [Code](#Code)
 # Intuition
 Most tree questions can be solved using either depth-first search (DFS) or breadth-first search (BFS), or both. Leaves of a tree can be easily accessed using a pre-order traversal approach, making recursion a fitting strategy for this problem.
 
