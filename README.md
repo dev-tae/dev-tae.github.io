@@ -1,6 +1,3 @@
-# Code Progression Note
-Welcome to my code progression note, where I document the milestones of my ongoing quest to enhance my skills as a software engineer. Here you'll find a chronicle of my adventures in code, from solving algorithmic challenges to exploring new programming paradigms.
-
 ## Table of Contents
 - [Leetcode Progress](#leetcode-progress)
 - [Study Notes](#study-notes)
