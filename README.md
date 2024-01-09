@@ -4,7 +4,9 @@ Welcome to my code progression note, where I document the milestones of my ongoi
 ## Table of Contents
 - [Leetcode Progress](#leetcode-progress)
 - [Study Notes](#study-notes)
+- [Programming Notes](#programming-notes)
 - [Algorithm Explorations](#algorithm-explorations)
+
 - [Categories](#categories)
 
 ## Leetcode Progress
@@ -22,6 +24,7 @@ Welcome to my code progression note, where I document the milestones of my ongoi
 ## Study Notes
 <!-- General notes, programming concepts, best practices, etc. -->
 
+## Programming Notes
 ## Algorithm Explorations
 <!-- Deep dives into specific algorithms and data structures -->
 
