@@ -35,6 +35,7 @@ if n == 0:
 
 - Space complexity: O(log N)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
 # Code
 ```
 class Solution:
@@ -67,6 +68,7 @@ return n == 1
 
 - Space complexity: O(1)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
 # Code
 ```
 class Solution:
@@ -99,6 +101,7 @@ if n <= 0:
 
 - Space complexity: O(1)
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
 # Code
 ```
 class Solution:
