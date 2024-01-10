@@ -20,7 +20,11 @@
    - 🔣 Bit Manipulation
 
 ### ![](https://img.shields.io/badge/-Medium-f0ad4e) Medium
-<!-- Add Medium problems here -->
+#### - 🌳 Tree
+1. [Amount of Time for Binary Tree to Be Infected](/leetcode/medium/tree/amount_of_time_for_binary_tree_to_be_infected_graph_bfs_dfs.md)
+   - 🕸️ Graph
+   - ♾️ BFS (Iteration) 
+   - 🔁 DFS (Recursion) 
 
 ### ![](https://img.shields.io/badge/-Hard-d9534f) Hard
 <!-- Add Hard problems here -->

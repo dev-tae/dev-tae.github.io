@@ -81,14 +81,14 @@ class Solution:
 # Approach 3: Math
 To determine if a number `n` is a power of four, we can use a mathematical approach. For `n` to be a power of four, it must satisfy the equation `n = 4^x` for some integer `x`. This can be rewritten in logarithmic form as `x = log4(n)`. We can check if `n` is indeed a power of four by verifying if `x` is an integer.
 
-In Python, we do this by comparing the logarithmic result to its integer part using `int(log_n)`:
+In Python, we do this by comparing the logarithmic result to its integer part using `int(log_n)`.
 
 ```
 log_n = math.log(n, 4)
 return log_n == int(log_n)
 ```
 
-We also need a base case for when the value is less than or equal to 0. We return False in this case. The reason for including the less than condition is that we can't take the logarithm of negative numbers, as it would throw a math domain error:
+We also need a base case for when the value is less than or equal to 0. We return False in this case. The reason for including the less than condition is that we can't take the logarithm of negative numbers, as it would throw a math domain error.
 ```
 if n <= 0:
    return False
