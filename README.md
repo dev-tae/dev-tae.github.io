@@ -8,8 +8,11 @@
 ## Leetcode Progress
 
 ### ![](https://img.shields.io/badge/-Easy-5cb85c) Easy
-#### - 🌳 Tree 🔁 Recursion
-- [Leaf-Similar Trees](/leetcode/easy/tree/leaf-similar_trees_recursion.md) 
+#### - 🌳 Tree
+1. [Leaf-Similar Trees](/leetcode/easy/tree/leaf-similar_trees_recursion.md)  🔁 Recursion
+
+#### - 🔣 Bit Manipulation
+1. [Power of Four](/leetcode/easy/bit_manipulation/power_of_four_recursion_iteration_bit_manipulation_math.md) 🔁 Recursion ♾️Iteration ➗ Math 🔣 Bit Manipulation
 
 ### ![](https://img.shields.io/badge/-Medium-f0ad4e) Medium
 <!-- Add Medium problems here -->
