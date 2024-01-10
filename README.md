@@ -14,7 +14,7 @@
 
 #### - 🔣 Bit Manipulation
 1. [Power of Four](/leetcode/easy/bit_manipulation/power_of_four_recursion_iteration_bit_manipulation_math.md)
-   - 🔁 DFS (Recursion)
+   - 🔁 Recursion
    - ♾️ Iteration
    - ➗ Math
    - 🔣 Bit Manipulation
@@ -42,7 +42,8 @@
 - 💡 Dynamic Programming
 - 🕸️ Graph
 - ➗ Math
-- 🔁 Recursion / DFS / BFS
+- 🔁 Recursion / DFS
+- ♾️ Iteration / BFS
 - 🔍 Sorting and Searching
 - 🔙 Backtracking
 - 🔣 Bit Manipulation
